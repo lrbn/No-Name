@@ -43,4 +43,5 @@ public class Player : MonoBehaviour {
 			playerLastShot = Time.time;
 		}
 	}
+
 }
